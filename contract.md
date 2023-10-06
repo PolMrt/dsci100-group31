@@ -38,4 +38,7 @@ Deepen our understanding of tools used in data science and Python Pandas functio
 > How will we address non-performance regarding these goals, expectations, policies and procedures?
 
 - Reflect and make note on non-performance on group evaluations. 
-- Always first speak to each other to try to solve any issues before reaching out to the TAs or the professor. 
+- Always first speak to each other to try to solve any issues before reaching out to the TAs or the professor.
+
+## Signature 
+1. Dhairya Chaudhri
