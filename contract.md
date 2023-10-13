@@ -44,3 +44,4 @@ Deepen our understanding of tools used in data science and Python Pandas functio
 1. Dhairya Chaudhri
 2. Alice He 
 3. Pol Marnette
+4. Karmen Legge
